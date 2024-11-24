@@ -10,6 +10,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
     int a = 55;
     int b =33;
+    int c = 646;
 
     public void init() {
         message = "Hello World!";
