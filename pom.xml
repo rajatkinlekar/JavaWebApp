@@ -45,6 +45,9 @@
     </dependencies>
 
     <build>
+        <finalName>
+            Test
+        </finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
