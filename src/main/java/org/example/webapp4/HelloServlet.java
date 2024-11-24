@@ -9,6 +9,7 @@ import jakarta.servlet.annotation.*;
 public class HelloServlet extends HttpServlet {
     private String message;
     int a = 55;
+    int b =33;
 
     public void init() {
         message = "Hello World!";
